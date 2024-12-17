@@ -1,6 +1,5 @@
 # Victor Medina Lejeune
 
-## 👱 Sobre mi
 <p align= "left">
 Me llamo Victor Medina, tengo 20 años y vivo en Dos Hermanas, he estudiado Desarrollo de Aplicaciones Multiplataforma en los Salesianos San Pedro. Soy principiante en el campo de la programación pero quiero seguir aprendiendo y trabajar.
 </p>
