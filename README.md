@@ -1,14 +1,12 @@
 # Victor-Medina-Lejeune
 
-### Sobre mi
-<hr>
-👱 Me llamo Victor Medina, he estudiado en los Salesianos San Pedro DAM(Desarrollo de Aplicaciones Multiplataforma), además de eso he hecho bachillerato, tengo B1 en inglés y hablo español como idioma nativo.
+### 👱 Sobre mi
+Me llamo Victor Medina, he estudiado Desarrollo de Aplicaciones Multiplataforma en los Salesianos San Pedro
 
-### Herramientas
-<hr>
+### 🛠 Tecnologías que uso
+
+![Captura de pantalla (20)](https://github.com/user-attachments/assets/a6c3e405-51f9-4e28-b2c8-8fbbf7a46150)
 
 ### Lenguajes
-<hr>
 
 ### Frameworks
-<hr>
