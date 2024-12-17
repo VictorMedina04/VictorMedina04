@@ -25,7 +25,7 @@ Me llamo Victor Medina, tengo 20 años y vivo en Dos Hermanas, he estudiado Desa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorMedina04&show_icons=true&theme=light" alt="Estadísticas de GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMedina04&layout=compact&theme=light" alt="Lenguajes más usados" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMedina04&layout=compact&theme=light" alt="Lenguajes más usados" width="300"/>
 </p>
 
 ## Connect with me
