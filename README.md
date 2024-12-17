@@ -1,4 +1,4 @@
-# Victor-Medina-Lejeune
+# Victor Medina Lejeune
 
 ## 👱 Sobre mi
 <p align= "left">
