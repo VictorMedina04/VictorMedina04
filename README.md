@@ -15,6 +15,8 @@ Me llamo Victor Medina, tengo 20 años y vivo en Dos Hermanas, he estudiado Desa
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/Postgresql-%2300C4CC.svg?style=for-the-badge&logo=Postgresql&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-%2300C4CC.svg?style=for-the-badge&logo=React&logoColor=white)&nbsp;
+![Next](https://img.shields.io/badge/Next-%2300C4CC.svg?style=for-the-badge&logo=Next&logoColor=white)&nbsp;
+
 
 
 ## 📊 Estadísticas de GitHub
